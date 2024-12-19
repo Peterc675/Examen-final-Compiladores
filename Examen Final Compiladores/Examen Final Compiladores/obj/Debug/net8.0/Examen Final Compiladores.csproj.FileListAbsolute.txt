@@ -1,0 +1,14 @@
+C:\Users\pcali\source\repos\Examen Final Compiladores\Examen Final Compiladores\bin\Debug\net8.0\Examen Final Compiladores.exe
+C:\Users\pcali\source\repos\Examen Final Compiladores\Examen Final Compiladores\bin\Debug\net8.0\Examen Final Compiladores.deps.json
+C:\Users\pcali\source\repos\Examen Final Compiladores\Examen Final Compiladores\bin\Debug\net8.0\Examen Final Compiladores.runtimeconfig.json
+C:\Users\pcali\source\repos\Examen Final Compiladores\Examen Final Compiladores\bin\Debug\net8.0\Examen Final Compiladores.dll
+C:\Users\pcali\source\repos\Examen Final Compiladores\Examen Final Compiladores\bin\Debug\net8.0\Examen Final Compiladores.pdb
+C:\Users\pcali\source\repos\Examen Final Compiladores\Examen Final Compiladores\obj\Debug\net8.0\Examen Final Compiladores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcali\source\repos\Examen Final Compiladores\Examen Final Compiladores\obj\Debug\net8.0\Examen Final Compiladores.AssemblyInfoInputs.cache
+C:\Users\pcali\source\repos\Examen Final Compiladores\Examen Final Compiladores\obj\Debug\net8.0\Examen Final Compiladores.AssemblyInfo.cs
+C:\Users\pcali\source\repos\Examen Final Compiladores\Examen Final Compiladores\obj\Debug\net8.0\Examen Final Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\pcali\source\repos\Examen Final Compiladores\Examen Final Compiladores\obj\Debug\net8.0\Examen Final Compiladores.dll
+C:\Users\pcali\source\repos\Examen Final Compiladores\Examen Final Compiladores\obj\Debug\net8.0\refint\Examen Final Compiladores.dll
+C:\Users\pcali\source\repos\Examen Final Compiladores\Examen Final Compiladores\obj\Debug\net8.0\Examen Final Compiladores.pdb
+C:\Users\pcali\source\repos\Examen Final Compiladores\Examen Final Compiladores\obj\Debug\net8.0\Examen Final Compiladores.genruntimeconfig.cache
+C:\Users\pcali\source\repos\Examen Final Compiladores\Examen Final Compiladores\obj\Debug\net8.0\ref\Examen Final Compiladores.dll
